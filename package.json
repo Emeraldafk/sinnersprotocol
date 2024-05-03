@@ -1,9 +1,9 @@
 {
-  "name": "mintyton",
+  "name": "sinners",
   "version": "1.0.0",
-  "description": "Example of minting NFT on TON",
+  "description": "Sinners Protocol NFT delves into the realm of sin and its consequences within a futuristic landscape. ",
   "main": "src/app.ts",
-  "repository": "https://github.com/coalus/MintyTON.git",
+  "repository": "https://github.com/Emeraldafk/sinnersprotocol.git",
   "author": "Coalus <nomail@gmail.com>",
   "license": "MIT",
   "scripts": {
